@@ -9,6 +9,7 @@ body{
     color: #fff;
     border-radius: 8px;
     border: none;
+    padding: 10px 20px;
 }
 /* Heading style start */
 .header-container{
@@ -27,7 +28,6 @@ body{
 }
 .header-btn{
     margin-top: 10px;
-    padding: 10px 20px;
 }
 .header-description{
     color: rgba(39, 39, 39, 0.60);
@@ -80,16 +80,10 @@ body{
     width: 250px;
     margin: 0px 150px 0px 0px;
 }
-.signup{
-    padding: 10px 20px;
-}
-
 /* main section-1 End */
 
 /* main section-3 start */
 .section-3{
-    background-color: aqua;
-    height: 100vh;
     margin: 100px 125px;
     text-align: center;
 }
@@ -106,6 +100,7 @@ body{
     align-items: center;
     justify-content: space-around; 
     margin-top: 50px;
+    margin-bottom: 100px;
 }
 .prymary-childs{
     height: 250px;
@@ -113,18 +108,46 @@ body{
     border: none;
 }
 .selection-3-img{
-    
     height: 250px;
     width: 230px;
 }
+.subscribe-container{
+    height: 300px;
+    width: 100%;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+}
+.subscribe-child-container{
+    padding: 50px;
+    text-align: center;
+}
+.subscribe-titel{
+    color: #272727;
+}
+.subscribe-btn{
+    margin-left: 10px;
+}
+.input{
+    margin-top: 20px;
+    margin-left: 60px;
+    padding: 10px;
+    width: 350px;
+    border-radius: 7px;
+    border: none;
+    color: rgba(39, 39, 39, 0.60);
+}
+.subscribe-desc{
+    color: rgba(39, 39, 39, 0.60);
+}
 /* main section-3 end */
-
 
 /* Footer start hear */
 footer{
     background-color: #000;
     height: 300px;
-    /* margin-top: 100px; */
 }
 .footer{
     align-items: center;
