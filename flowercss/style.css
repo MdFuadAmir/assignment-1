@@ -30,7 +30,7 @@ body{
     padding: 10px 20px;
 }
 .header-description{
-    color: rgb(198, 187, 187);
+    color: rgba(39, 39, 39, 0.60);
 }
 /* right header section */
 .header-right{
@@ -43,3 +43,45 @@ body{
     margin-left: 70px;
 }
 /* Heading style  end */
+
+/* main section start */
+
+
+/* main section-1 start */
+.section-2{
+    margin-top: 50px;
+    background-color: rgba(229, 84, 115, .10);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50vh;
+    font-family: 'Lato', sans-serif;
+}
+.section-2-left-child{
+    text-align: center;
+    padding: 0px 70px 0px 250px;   
+}
+.section-2-titel{
+    font-size: 25px;
+    font-weight: 800;
+    font-style: normal;
+    color: #272727;
+}
+.section-2-desc{
+    color: rgba(39, 39, 39, 0.60);
+}
+.off{
+    color: #E55473;
+}
+.section-2-right{
+    margin: 0px 100px 0px 0px;
+}
+.section-2-img{
+    height: 300px;
+    width: 250px;
+    margin: 0px 150px 0px 0px;
+}
+.signup{
+    padding: 10px 20px;
+}
+/* main section-1 End */
