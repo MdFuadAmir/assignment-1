@@ -45,7 +45,7 @@ body{
 /* Heading style  end */
 /* main section start */
 /* main section-1 start */
-/* main section-1 end */
+
 .section-1{
     align-items: center;
     text-align: center;
@@ -87,6 +87,7 @@ body{
 .section-1-container1-childs3{
     background-color: rgba(71, 125, 17, 0.15);
 }
+/* main section-1 end */
 /* support container */
 .support-container{
     margin-top: 100px;
