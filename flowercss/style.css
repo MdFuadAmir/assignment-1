@@ -85,3 +85,21 @@ body{
     padding: 10px 20px;
 }
 /* main section-1 End */
+
+/* Footer start hear */
+footer{
+    background-color: #000;
+    height: 300px;
+    margin-top: 100px;
+    font-family: 'Lato', sans-serif;
+    
+}
+.footer{
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+.footer-coppy{
+    color: rgba(255, 255, 255, 0.40);
+}
